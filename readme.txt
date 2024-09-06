@@ -1,2 +1,2 @@
-This is our implimentation for DTI-KGLE
+This is our implimentation for DTI-LEKG
 
